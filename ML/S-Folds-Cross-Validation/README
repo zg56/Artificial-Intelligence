@@ -1,0 +1,3 @@
+Cross-Validation is used to get reliable evaluation results when we don't have that
+much data. This is a Matlab implementation of the method.
+S = 5 for this example, thus this is a 5-Folds Cross-Validation.
