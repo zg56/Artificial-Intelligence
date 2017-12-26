@@ -1,0 +1,4 @@
+Gradient Descent is a general algorithm that allows us to converge on
+local minima (maxima) when a closed-form solution is not available or is not feasible to compute.
+This prgram is an implementation of GD in Matlab to find the parameters
+for linear regression.
