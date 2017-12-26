@@ -1,4 +1,4 @@
-%% Zoltan Gercsak CS 383 Assignment 1 Winter 2017
+%% Zoltan Gercsak 
 % PCA Projection
 
 clear all;
