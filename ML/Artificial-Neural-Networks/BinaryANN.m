@@ -1,4 +1,4 @@
-%% Zoltan Gercsak Binary ANN - Homework 8
+%% Zoltan Gercsak - Binary ANN
 
 close all;
 clear all;
