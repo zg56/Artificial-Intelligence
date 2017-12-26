@@ -1,4 +1,4 @@
-%% Main driver Zoltan Gercsak CS 383 Homework 2 - Clustering
+%% Main driver Zoltan Gercsak - Clustering
 
 clc;
 close all;
