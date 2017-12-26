@@ -1,4 +1,4 @@
-%% CS 383 Zoltan Gercsak Winter 2017 HW 3
+%% Zoltan Gercsak - Closed Form Linear Regression
 
 clc;
 close all;
