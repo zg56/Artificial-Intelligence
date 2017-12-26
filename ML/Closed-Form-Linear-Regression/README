@@ -1,0 +1,4 @@
+This program is implemented in Matlab.
+Computes the closed-form solution of linear regression.
+Applies the solution to the testing samples.
+Computes the root mean squared error.
