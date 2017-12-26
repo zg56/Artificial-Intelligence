@@ -1,4 +1,4 @@
-%% Zoltan Gercsak - Binary ANN
+%% Zoltan Gercsak - Binary Artificial Neural Network
 
 close all;
 clear all;
