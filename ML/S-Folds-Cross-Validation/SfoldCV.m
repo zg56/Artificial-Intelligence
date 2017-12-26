@@ -1,4 +1,4 @@
-%% Zoltan Gercsak CS 383 HW 3 S-Folds Cross Validation
+%% Zoltan Gercsak - S-Folds Cross Validation
 
 clc;
 close all;
