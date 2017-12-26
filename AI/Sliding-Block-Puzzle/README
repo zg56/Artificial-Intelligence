@@ -1,0 +1,7 @@
+This Project is an implementation of a sliding brick puzzle game solver using various search algorithms.
+Made use of the Strategy design patter and implemented the following searches: 
+A* search
+Depth First search
+Breadth First search
+Random walk
+The different algorithms can be tested out which one is the fastest.
