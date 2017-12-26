@@ -1,4 +1,4 @@
-%% CS 383 Zoltan Gercsak Gradient Descent Assignment 4
+%% Zoltan Gercsak - Gradient Descent
 
 clc;
 close all;
