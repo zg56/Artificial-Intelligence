@@ -1,4 +1,4 @@
-%% Zoltan Gercsak - CS 383 HW 8 - Multiclassification ANN
+%% Zoltan Gercsak - Multiclassification Artificial Neural Network
 
 close all;
 clear all;
