@@ -1,1 +1,4 @@
 This project contains an Othello game implementation in JAVA.
+The AI used for this game to play is making use of Monte Carlo search algorithm and
+random search algorithm. The two different algorithms can play against each other
+to observe the difference between the power of these search algorithms.
