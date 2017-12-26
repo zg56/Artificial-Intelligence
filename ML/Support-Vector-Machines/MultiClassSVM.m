@@ -1,4 +1,4 @@
-%% CS 383 Zoltan Gercsak Multi-class SVM Assignment 7
+%% Zoltan Gercsak - Multi-class SVM
 
 clc;
 close all;
