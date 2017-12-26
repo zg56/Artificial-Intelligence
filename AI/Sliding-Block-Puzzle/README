@@ -5,3 +5,4 @@ Depth First search
 Breadth First search
 Random walk
 The different algorithms can be tested out which one is the fastest.
+Used Manhattan Cost heuristics for the heuristic evaluation.
