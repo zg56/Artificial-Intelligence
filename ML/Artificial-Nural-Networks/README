@@ -1,0 +1,3 @@
+This is a Matlab implementation of an Artificial Neural Network, 
+using it for binary classification and direct multi-class classification.
+Made use of backward and forward propagation algorithms.
