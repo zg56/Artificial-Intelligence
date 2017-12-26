@@ -1,0 +1,21 @@
+For these projects the game engines were provided by our Professor thus I have no rights to upload the full code.
+I was merely responsible to write an appropiate artificial intelligence to play the given game.
+In lack of source code, a link is provided to each programs that demonstrate how the algorithm works in each case.
+
+Game 1:
+Implemented an A* algorithm for a strategic game. The video follows how the computer is playing the game.
+Some parts of the code is also displayed in this video. The program is implemented in JAVA.
+
+https://www.youtube.com/watch?v=KnS4jDQEp_o
+
+Game 2:
+For the classic Mario game created an AI using Behavior Tree. The vide follows how Mario
+clears the level and shows some of the code. Written in JAVA.
+
+https://www.youtube.com/watch?v=tV7JCZZSCWU&t=4s
+
+Game 3:
+Implemented Kruskals algorithm to generate the map content for the provided game engine. The video shows
+how the algorithm creates the map files readed by the game engine. Implemented in JAVA.
+
+https://www.youtube.com/watch?v=KZ7e31ftp2M&t=2s
