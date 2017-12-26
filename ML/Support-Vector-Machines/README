@@ -1,0 +1,3 @@
+For this program I have made use of Matlabs inbuilt support vector machine package,
+to test and train an SVM. Two different implementation are done, one as a binary SVM and
+other as a multi-class SVM.
