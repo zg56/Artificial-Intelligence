@@ -1,0 +1,4 @@
+This program is clustering data using k-means.
+Performs k-means clustering using just the 6th and 7th feature of the data with k=2
+and using the Euclidean distance.
+In addition the program visualizes the progress of the algorithm.
