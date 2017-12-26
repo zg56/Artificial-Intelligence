@@ -1,4 +1,4 @@
-%% CS 383 Zoltan Gercsak Binary SVM Assignment 7
+%% Zoltan Gercsak - Binary SVM
 
 clc;
 close all;
